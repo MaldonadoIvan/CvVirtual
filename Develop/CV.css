@@ -1,0 +1,43 @@
+*{
+    font-family: 'Century Gothic';
+}
+
+
+.GrisClaro{
+    color:silver;
+}
+
+.LenguajesDeProgramacion {
+    font-size:small;
+    font-stretch:narrower;
+}
+
+#circuloVerde{
+    height:10px;
+    width:10px;
+    background:#94F81C;
+    -moz-border-radius:50px;
+    -webkit-border-radius:50px;
+    border-radius:50px;
+ }
+
+ #circuloGris{
+    height:10px;
+    width:10px;
+    background: silver;
+    -moz-border-radius:50px;
+    -webkit-border-radius:50px;
+    border-radius:50px;
+ }
+
+#CentrarPagina{
+	max-width: 1500px;
+  	margin: auto;
+}
+
+
+.center {
+  display: block;
+  margin-right: auto;
+  height: 100vh;
+}

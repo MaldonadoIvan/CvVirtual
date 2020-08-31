@@ -1,0 +1,5 @@
+- la parte de telefono mail y direccion tratar de que la tabla quede centrada con cada dato
+- en la seccion de herramientas hacer que coincida con la imagen el borde gris
+- seccion herramientas comentar los puntos de colores, y reacomodar de vuelta en tabla 
+los lenguajes
+-en la seccion de idiomas ver porque se volvio a desincronizar el 100vh
